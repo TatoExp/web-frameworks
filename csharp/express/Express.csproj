@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>web</AssemblyName>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ExpressSharp">
+      <HintPath>D:\repos\web-frameworks\csharp\express\ExpressSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
